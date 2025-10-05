@@ -1,7 +1,7 @@
-Item,Description,Quantity,Unit Cost (CAD),Total Cost (CAD),Source,Link,Notes
-Vibration Motor,Button Type Vibrating Motor,1,9.99,9.99,Amazon.ca,https://www.amazon.ca/Vibration-Button-Type-Vibrating-Household-Appliances/dp/B0BVMJ962F,
-ESP32-C3 Xiao,Microcontroller,1,N/A,N/A,Already have,,
-HMC5883L,Triple-axis Magnetometer Compass,1,16.89,16.89,Amazon.ca,https://www.amazon.ca/Robojax-HMC5883L-Triple-axis-Magnetometer-Compass/dp/B0BZSR9ZZL,
-CR2032 Battery Holder,Coin Cell Battery Holder,1,21.60,21.60,Amazon.ca,https://www.amazon.ca/LAMPVPATH-CR2032-Battery-Holder-Mounting/dp/B08SQJJJNK,
-Prefboard,Perforated Circuit Board,1,N/A,N/A,Already have,,
-Total,,,,48.48,,,
+Item,Description,Quantity,Total Cost (CAD),Source,Link,Notes
+Vibration Motor,Button Type Vibrating Motor,1,9.99,Amazon.ca,https://www.amazon.ca/Vibration-Button-Type-Vibrating-Household-Appliances/dp/B0BVMJ962F,
+ESP32-C3 Xiao,Microcontroller,1,N/A,Already have,,
+HMC5883L,Triple-axis Magnetometer Compass,1,16.89,Amazon.ca,https://www.amazon.ca/Robojax-HMC5883L-Triple-axis-Magnetometer-Compass/dp/B0BZSR9ZZL,
+CR2032 Battery Holder,Coin Cell Battery Holder,1,21.60,Amazon.ca,https://www.amazon.ca/LAMPVPATH-CR2032-Battery-Holder-Mounting/dp/B08SQJJJNK,
+Prefboard,Perforated Circuit Board,1,N/A,Already have,,
+Total,,,48.48,,,
