@@ -3,6 +3,7 @@ It beeps when you point north, beeps twice when east, beeps thrice when south, b
 
 Concept:
 <img width="1331" height="807" alt="1759619874-wayshot" src="https://github.com/user-attachments/assets/51aec47b-30de-45d8-a951-08136c2f52c2" />
+<img width="1179" height="1530" alt="image" src="https://github.com/user-attachments/assets/3423a92d-548c-4885-b968-ebc02575103d" />
 
 
 BOM:
